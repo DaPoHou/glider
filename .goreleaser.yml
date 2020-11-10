@@ -16,7 +16,6 @@
 before:
   hooks:
     - go mod tidy
-
 # https://goreleaser.com/build/
 builds:
   - id: default
